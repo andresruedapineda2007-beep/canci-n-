@@ -11,7 +11,7 @@ El programa crea tres canciones, las reproduce y muestra detalles de una de ella
 javac Cancion.java MiPlaylist.java
 java MiPlaylist
 
-Autores
+Este proyecto fue realizado por:
 
 Yosman Murillo
 
